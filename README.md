@@ -1,16 +1,32 @@
-### Hi there 👋
+# About Me :
+Hello, I'm Emilio Toledo!
 
-<!--
-**emilio-toledo/emilio-toledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and creative Software Developer with a love for learning and solving problems.
 
-Here are some ideas to get you started:
+Currently, I'm focused on improving local businesses with unique solutions and the highest attention to detail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m on a journey of learning everything and anything interesting (machine learning, low level engineering, game development) and I'm enjoying every step of this endless staircase to knowledge.
+
+# GitHub Stats :
+![](https://github-readme-streak-stats.herokuapp.com/?user=emilio-toledo&theme=dark&hide_border=false)<br/>
+
+# Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,rust)](https://skillicons.dev) <br>
+
+# Frameworks
+[![My Skills](https://skillicons.dev/icons?i=svelte,react,nextjs,vue,nuxtjs,astro,nestjs)](https://skillicons.dev)
+
+# Web
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vite,vitest)](https://skillicons.dev)
+
+# Tools
+[![My Skills](https://skillicons.dev/icons?i=deno,bun,git,github,vim,vscode)](https://skillicons.dev)
+
+# Dev Ops
+[![My Skills](https://skillicons.dev/icons?i=supabase,vercel,docker)](https://skillicons.dev)
+
+# Databases
+[![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
+
+# Servers
+[![My Skills](https://skillicons.dev/icons?i=linux,nginx)](https://skillicons.dev)
