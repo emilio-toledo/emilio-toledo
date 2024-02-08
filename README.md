@@ -7,11 +7,8 @@ Currently, I'm focused on improving local businesses with unique solutions and t
 
 I’m on a journey of learning everything and anything interesting (machine learning, low level engineering, game development) and I'm enjoying every step of this endless staircase to knowledge.
 
-# GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=emilio-toledo&theme=dark&hide_border=false)<br/>
-
 # Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,rust)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,rust)](https://skillicons.dev)
 
 # Frameworks
 [![My Skills](https://skillicons.dev/icons?i=svelte,react,nextjs,vue,nuxtjs,astro,nestjs)](https://skillicons.dev)
